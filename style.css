@@ -1,0 +1,10 @@
+* {
+    box-sizing: border-box;
+}
+
+.main-container {
+    background-color: yellow;
+    width: 1200px;
+    height: 500px;
+  }
+  
